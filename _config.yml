@@ -1,0 +1,38 @@
+name: apponclick.com
+analytics: {}
+github: true
+description: app creation plarform
+author:
+  name: Joe
+  url: www.apponclick.com
+  email: apponclick@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.1713650356978178
+color:
+  lightness: 0.05667575822600065
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  saturation: 0.4235970213598565
+  brandStrength: 0.1217991973091381
+  rhythmicContrast: 0.3688719136102293
+content_rating:
+  adult: false
+typography_spectrum: 0.8172882490325719
+opengraph: {}
+title: click to create an app
